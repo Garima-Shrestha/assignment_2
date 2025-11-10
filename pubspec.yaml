@@ -9,6 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   path: ^1.9.0
+  equatable: ^2.0.5   #dependency added to have access to package equatable package
 
 dev_dependencies:
   lints: ^6.0.0
